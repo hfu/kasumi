@@ -8,8 +8,9 @@
         "coordinates": [140.137224, 36.050505]
       },
       "properties": {
-        "name": "Kasumi",
-        "PET": true
+        "名前": "カスミ 梅園店",
+        "ペットボトル": true,
+        "段ボール": false
       }
     }
   ]
