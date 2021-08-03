@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.137224, 36.050505]
+      },
+      "properties": {
+        "name": "Kasumi",
+        "PET": true
+      }
+    }
+  ]
+}
